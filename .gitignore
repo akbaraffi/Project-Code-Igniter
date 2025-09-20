@@ -126,4 +126,3 @@ _modules/*
 /phpunit*.xml
 
 /node_modules/
-.env        
